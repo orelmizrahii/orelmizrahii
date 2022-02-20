@@ -17,7 +17,7 @@ and learning programming and SOC through small projects  on the side.
   <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/orel2i2-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  <img src="https://img.shields.io/badge/%3Corel4378%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+  <img src="https://img.shields.io/badge/%3Corel'#'4378%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
                                                                                                       
 </div>
 </p>
