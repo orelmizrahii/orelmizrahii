@@ -66,4 +66,6 @@ if __name__ == '__main__':
 
 [![Orel Mizrahi' Activity Graph](https://activity-graph.herokuapp.com/graph?username=orelmizrahii&custom_title=Orel%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/orelmizrahii)
 
+
+Come along my journey of learning new coding skils and etc and check the progress from the start to recent projects!
 -------
