@@ -29,7 +29,6 @@ class OrelMizrahi():
     self.name = "Orel Mizrahi";
     self.username = "orelmizrahii";
     self.location = "Haifa , Israel";
-    self.instagram = "@orel2i2";
     self.web = "https://github.com/orelmizrahii";
   
   def __str__(self):
